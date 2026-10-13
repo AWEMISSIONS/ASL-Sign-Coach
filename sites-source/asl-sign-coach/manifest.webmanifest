@@ -1,0 +1,10 @@
+{
+  "name": "ASL Sign Coach",
+  "short_name": "ASL Coach",
+  "description": "A private daily ASL practice coach",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f5f1",
+  "theme_color": "#205845",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
